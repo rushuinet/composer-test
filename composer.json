@@ -1,0 +1,13 @@
+{
+	"name":"rushuinet/composer-test",
+	"version": "1.0.0",
+	"require": {
+		"noahbuscher/macaw": "dev-master"
+	},
+	"autoload": {
+		"classmap": [
+     			"app/controllers",
+			"app/models"
+    		]
+	}
+}
