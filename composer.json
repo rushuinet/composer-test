@@ -1,8 +1,10 @@
 {
 	"name":"rushuinet/composer-test",
-	"version": "1.0.0",
+	"description": "Composer test Project Template"
+	"keywords": ["composer", "rushuinet"],
 	"homepage": "http://www.rushui.net/",
     	"type": "project",
+	"license": "BSD-3-Clause",
 	"require": {
 		"noahbuscher/macaw": "dev-master"
 	},
