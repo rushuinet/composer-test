@@ -1,6 +1,6 @@
 {
 	"name":"rushuinet/composer-test",
-	"description": "Composer test Project Template"
+	"description": "Composer test Project Template",
 	"keywords": ["composer", "rushuinet"],
 	"homepage": "http://www.rushui.net/",
     	"type": "project",
