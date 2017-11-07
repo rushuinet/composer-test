@@ -6,7 +6,7 @@
         "rushuinet"
     ],
     "homepage": "http://www.rushui.net/",
-    "type": "composer",
+    "type": "project",
     "license": "MIt",
     "authors": [
         {
