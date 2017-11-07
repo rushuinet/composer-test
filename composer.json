@@ -1,24 +1,27 @@
 {
-	"name":"rushuinet/composer-test",
-	"description": "Composer test Project Template",
-	"keywords": ["composer", "rushuinet"],
-	"homepage": "http://www.rushui.net/",
-    	"type": "composer",
-	"license": "MIt",
-	"authors": [
- 		{
-     			"name": "rushui",
-     			"email": "rushui@qq.com",
-		}
-	],
-	"minimum-stability": "dev",
-	"require": {
-		"noahbuscher/macaw": "dev-master"
-	},
-	"autoload": {
-		"classmap": [
-     			"app/controllers",
-			"app/models"
-    		]
-	}
+    "name": "rushuinet/composer-test",
+    "description": "Composer test Project Template",
+    "keywords": [
+        "composer",
+        "rushuinet"
+    ],
+    "homepage": "http://www.rushui.net/",
+    "type": "composer",
+    "license": "MIt",
+    "authors": [
+        {
+            "name": "rushui",
+            "email": "rushui@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "noahbuscher/macaw": "dev-master"
+    },
+    "autoload": {
+        "classmap": [
+            "app/controllers",
+            "app/models"
+        ]
+    }
 }
