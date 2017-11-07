@@ -3,8 +3,15 @@
 	"description": "Composer test Project Template",
 	"keywords": ["composer", "rushuinet"],
 	"homepage": "http://www.rushui.net/",
-    	"type": "project",
-	"license": "BSD-3-Clause",
+    	"type": "composer",
+	"license": "MIt",
+	"authors": [
+ 		{
+     			"name": "rushui",
+     			"email": "rushui@qq.com",
+		}
+	],
+	"minimum-stability": "dev",
 	"require": {
 		"noahbuscher/macaw": "dev-master"
 	},
